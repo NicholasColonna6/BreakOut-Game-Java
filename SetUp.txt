@@ -1,7 +1,7 @@
 In the file 'BreakOut Directions.txt' you will find a brief description of the game and instructions on how to play.
 
 NOTE: In order for the game to play, you will need two libraries, ACM.jar and ObjectDrawV1.1.2.jar, which are
-both included in the 'lib' folder in our submission. These will then need to be configured to the build path. 
+both included in the 'lib' folder. These will then need to be configured to the build path. 
 Instructions on how to do this are below, for your reference.
 
 Using Eclipse IDE:
